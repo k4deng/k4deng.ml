@@ -81,7 +81,7 @@
                 <div class="col-lg-6 col-md-8 col-xs-6">
                     <div id="earthvision" class="right-text-content">
                         <p>
-							Want to know what servers I play on? A full list is here. <br> <i>This list may not be up to date. Last updated on 9/27/2020.</i>
+							Want to know what servers I play on? A full list is here. <br> <i>This list may not be up to date. Last updated on 1/6/2021</i>
 						<br><br>
 							<b>1. EarthVision</b>
 						<br>
