@@ -4,7 +4,8 @@
             <div class="row">
                 <div class="col-lg-6 col-xs-12">
                     <div class="left-text-content">
-                        <p>Website Created And Coded By K4denG - Design by TemplateMo</p>
+                        <p>Website Created And Coded By K4denG - Design by TemplateMo<br>
+                       <i>Time flies when you're cooking corndogs</i></p>
                     </div>
                 </div>
                 <!--<div class="col-lg-6 col-xs-12">
